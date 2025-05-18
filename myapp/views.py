@@ -14,7 +14,7 @@ def home(request):
     #isActive = True
     name = "Learning Django"
     list_of_programs = [
-        'WAP to check even of odd',
+        'WAP to check even of odds',
         'WAP to check prime number',
         'WAP to print all prime numbers from 1 to 100',
         'WAP to print pascal triangle',
